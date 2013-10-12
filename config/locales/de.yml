@@ -124,6 +124,9 @@ de:
         one: "Vor einem Jahr"
         other: "Vor %{count} Jahren"
   pages:
+    index:
+      ophase_teaser: "Bist du <strong>Studienanfänger</strong>?"
+      ophase_button: "Infos zur Orientierungsphase"
     twitter:
       UPB_on_twitter: "UPB auf Twitter"
       by: "von"
@@ -192,6 +195,7 @@ de:
       where: "Ort"
       party_headline: "Party-Termine"
       view_on_facebook: "in Facebook öffnen"
+      view_more: "Partywebsite öffnen"
   timetable:
     new:
       new_entry: Neuer Stundenplaneintrag
