@@ -6,6 +6,7 @@ The app uses Bootstrap and is accessible by all major browsers and operating sys
 We also created two apps for [iOS](https://github.com/yippie-io/iUPB-iOS-App) and [Android](https://github.com/yippie-io/iUPB-Android). Check them out as well!
 
 [![Code Climate](https://codeclimate.com/github/yippie-io/iUPB.png)](https://codeclimate.com/github/yippie-io/iUPB)
+[![Gemnasium](https://gemnasium.com/yippie-io/iupb.png)](https://gemnasium.com/yippie-io/iupb)
 
 ## Setup
 - Install Ruby 1.9 and Bundler (we run 1.9.2 live)
@@ -23,8 +24,8 @@ Fork our repository, change, test and then make a pull-request.
 - Got an award from the university in late 2012 for the best student app
 - Further received an award from Germany's CIO (www.cio.bund.de) for our open-source activities
 - Was started by [@dirkschumacher](https://github.com/dirkschumacher) in 2010 and has been completely redesigned together with [@MichaelWhi](https://github.com/MichaelWhi) in early 2012
-- Has more than 3,000 active Android installations and more than 5,000 iOS downloads
-- We haven't spent a single euro on infrastructure so far. We daily serve 1,000+ users by just using free plans of popular Heroku services (thanks [@heroku](https://github.com/heroku)!)
+- Has more than 4,500 active Android installations (6,000+ downloads) and more than 6,000 iOS downloads
+- We haven't spent a single euro on infrastructure so far. During the week we daily serve 3,000+ users by just using free plans of popular Heroku services (thanks [@heroku](https://github.com/heroku)!)
 
 ## Find out more
 - Web: [www.yippie.io](http://www.yippie.io)
